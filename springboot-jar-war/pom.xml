@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>springboot-jar-war</artifactId>
+    <artifactId>springboot-jar-demo</artifactId>
     <version>0.0.1</version>
     <name>springboot-jar-war</name>
     <description>SpringBoot系列——打成jar包跟war包</description>
@@ -43,7 +43,7 @@
                         需要在启动命令指定依赖包路径：-Dloader.path="D:develop/shared/fjar"
                      -->
                     <!-- 指定该Main Class为全局的唯一入口 -->
-                    <!--<mainClass>cn.huanzi.qch.springbootjarwar.SpringbootJarWarApplication</mainClass>
+                    <!--<mainClass>cn.huanzi.qch.springbootjmx.SpringbootJarWarApplication</mainClass>
                     <layout>ZIP</layout>
                     <includes>
                         <include>
