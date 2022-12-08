@@ -2,9 +2,9 @@ package cn.huanzi.qch.springbootlogback;
 
 
 import lombok.extern.slf4j.Slf4j;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
-import org.thymeleaf.util.StringUtils;
 
 import javax.websocket.*;
 import javax.websocket.server.ServerEndpoint;

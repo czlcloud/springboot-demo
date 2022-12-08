@@ -51,7 +51,6 @@
     <orderEntry type="library" name="Maven: org.activiti:activiti-process-validation:7.1.0.M5" level="project" />
     <orderEntry type="library" name="Maven: org.activiti.core.common:activiti-spring-project:7.1.0.M5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-orm:5.1.2.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.8.1" level="project" />
     <orderEntry type="library" name="Maven: javax.el:el-api:2.2" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" level="project" />
     <orderEntry type="library" name="Maven: org.activiti:activiti-engine:7.1.0.M5" level="project" />
@@ -191,5 +190,7 @@
     <orderEntry type="library" name="Maven: com.fasterxml:classmate:1.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.springframework.boot:spring-boot-devtools:2.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.4" level="project" />
+    <orderEntry type="library" name="Maven: cn.hutool:hutool-all:5.8.10" level="project" />
   </component>
 </module>

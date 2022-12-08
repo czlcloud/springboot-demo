@@ -8,6 +8,9 @@
     <version>1.0.0</version>
     <modules>
         <module>springboot-jmx</module>
+        <module>springboot-prometheus-mock</module>
+        <module>springboot-logback</module>
+        <module>springboot-grace-shutdown</module>
     </modules>
     <packaging>pom</packaging>
     <description>SpringBoot系列demo代码</description>
@@ -54,6 +57,19 @@
             <optional>true</optional>
             <scope>runtime</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.4</version>
+        </dependency>
+
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.8.10</version>
+        </dependency>
+
     </dependencies>
 
     <!--构建工具-->

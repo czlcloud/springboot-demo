@@ -6,29 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-prometheus-mock" />
+        <module name="springboot-logback" />
+        <module name="springboot-activiti7" />
+        <module name="springboot-idem" />
         <module name="springboot-jmx" />
         <module name="springboot-jar-war" />
-        <module name="springboot-activiti7" />
+        <module name="springboot-grace-shutdown" />
         <module name="springboot-admin-client" />
-        <module name="springboot-idem" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="parent" target="1.8" />
       <module name="springboot-activiti7" target="1.8" />
       <module name="springboot-admin-client" target="1.8" />
+      <module name="springboot-grace-shutdown" target="1.8" />
       <module name="springboot-idem" target="1.8" />
+      <module name="springboot-jar-demo" target="1.8" />
       <module name="springboot-jar-war" target="1.8" />
       <module name="springboot-jmx" target="8" />
+      <module name="springboot-logback" target="1.8" />
+      <module name="springboot-prometheus-mock" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot-activiti7" options="-parameters" />
       <module name="springboot-admin-client" options="-parameters" />
+      <module name="springboot-grace-shutdown" options="-parameters" />
       <module name="springboot-idem" options="-parameters" />
+      <module name="springboot-jar-demo" options="-parameters" />
       <module name="springboot-jar-war" options="-parameters" />
       <module name="springboot-jmx" options="-parameters" />
+      <module name="springboot-logback" options="-parameters" />
+      <module name="springboot-prometheus-mock" options="-parameters" />
     </option>
   </component>
 </project>

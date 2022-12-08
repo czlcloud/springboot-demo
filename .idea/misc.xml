@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/springboot-idem/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-activiti7/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-admin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-grace-shutdown/pom.xml" />
       </list>
     </option>
   </component>

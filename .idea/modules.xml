@@ -5,9 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-activiti7/springboot-activiti7.iml" filepath="$PROJECT_DIR$/springboot-activiti7/springboot-activiti7.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-admin-client/springboot-admin-client.iml" filepath="$PROJECT_DIR$/springboot-admin-client/springboot-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-grace-shutdown/springboot-grace-shutdown.iml" filepath="$PROJECT_DIR$/springboot-grace-shutdown/springboot-grace-shutdown.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-idem/springboot-idem.iml" filepath="$PROJECT_DIR$/springboot-idem/springboot-idem.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jar-war/springboot-jar-war.iml" filepath="$PROJECT_DIR$/springboot-jar-war/springboot-jar-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-jmx/springboot-jmx.iml" filepath="$PROJECT_DIR$/springboot-jmx/springboot-jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-logback/springboot-logback.iml" filepath="$PROJECT_DIR$/springboot-logback/springboot-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-prometheus-mock/springboot-prometheus-mock.iml" filepath="$PROJECT_DIR$/springboot-prometheus-mock/springboot-prometheus-mock.iml" />
     </modules>
   </component>
 </project>

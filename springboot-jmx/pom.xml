@@ -51,7 +51,7 @@
                         需要在启动命令指定依赖包路径：-Dloader.path="D:develop/shared/fjar"
                      -->
                     <!-- 指定该Main Class为全局的唯一入口 -->
-                    <!--<mainClass>cn.huanzi.qch.springbootjmx.SpringbootJarWarApplication</mainClass>
+                    <!--<mainClass>SpringbootJarWarApplication</mainClass>
                     <layout>ZIP</layout>
                     <includes>
                         <include>

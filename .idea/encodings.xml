@@ -3,8 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/springboot-activiti7/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-admin-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-grace-shutdown/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-idem/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-jar-war/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-jmx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-prometheus-mock/src/main/java" charset="UTF-8" />
   </component>
 </project>
