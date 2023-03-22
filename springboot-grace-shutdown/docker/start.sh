@@ -10,7 +10,7 @@ function graceful_shut_down {
 }
 trap graceful_shut_down TERM INT
 
-exec java $JAVA_OPTS -jar springboot-grace-shutdown-0.0.1.jar &
+exec java "$JAVA_OPTS" "$JAVA_AGENTS" -jar springboot-grace-shutdown-0.0.1.jar &
 #tail --pid=${!} -f /dev/null &
 #wait "${!}"
 PID=$!
