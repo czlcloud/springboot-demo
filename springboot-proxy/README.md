@@ -6,4 +6,5 @@
 我是agent1%
 ➜  ~ curl -H "edge_clouster_id:agent2" http://localhost:8080/proxy/edge-agents/welcome
 我是agent2%
-```
+
+参考：https://github.com/mitre/HTTP-Proxy-Servlet
