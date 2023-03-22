@@ -32,26 +32,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <!-- 文件名以及输出路径-->
-                <configuration>
-                    <finalName>${project.artifactId}</finalName>
-                    <outputDirectory>../package</outputDirectory>
 
-                    <!--
-                        ${project.artifactId}-thin
-                        jar包瘦身，不把依赖包打进jar中，可减少jar包大小，
-                        需要在启动命令指定依赖包路径：-Dloader.path="D:develop/shared/fjar"
-                     -->
-                    <!-- 指定该Main Class为全局的唯一入口 -->
-                    <!--<mainClass>SpringbootJarWarApplication</mainClass>
-                    <layout>ZIP</layout>
-                    <includes>
-                        <include>
-                            <groupId>nothing</groupId>
-                            <artifactId>nothing</artifactId>
-                        </include>
-                    </includes>-->
-                </configuration>
             </plugin>
             <!-- 跳过启动测试 -->
             <plugin>

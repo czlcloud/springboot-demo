@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-jmx/springboot-jmx.iml" filepath="$PROJECT_DIR$/springboot-jmx/springboot-jmx.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-logback/springboot-logback.iml" filepath="$PROJECT_DIR$/springboot-logback/springboot-logback.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-prometheus-mock/springboot-prometheus-mock.iml" filepath="$PROJECT_DIR$/springboot-prometheus-mock/springboot-prometheus-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-proxy/springboot-proxy.iml" filepath="$PROJECT_DIR$/springboot-proxy/springboot-proxy.iml" />
     </modules>
   </component>
 </project>
