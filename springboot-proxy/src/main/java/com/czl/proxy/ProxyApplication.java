@@ -1,4 +1,4 @@
-package com.hc.proxy;
+package com.czl.proxy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

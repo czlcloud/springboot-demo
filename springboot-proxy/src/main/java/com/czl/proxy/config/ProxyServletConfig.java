@@ -1,6 +1,5 @@
-package com.hc.proxy.config;
+package com.czl.proxy.config;
 
-import org.mitre.dsmiley.httpproxy.ProxyServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

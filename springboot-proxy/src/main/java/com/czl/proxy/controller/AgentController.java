@@ -1,4 +1,4 @@
-package com.hc.proxy.controller;
+package com.czl.proxy.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

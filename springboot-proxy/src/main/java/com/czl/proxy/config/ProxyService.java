@@ -1,4 +1,4 @@
-package com.hc.proxy.config;
+package com.czl.proxy.config;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.http.HttpHost;
